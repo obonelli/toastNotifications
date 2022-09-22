@@ -1,4 +1,4 @@
-# React + Vite: CounterApp
+# React + Vite: NotificationApp
 
 1. Clone or install
 2. Run the command:
